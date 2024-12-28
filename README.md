@@ -1,2 +1,1 @@
-# cdode-py
-ccode
+#python二级备考笔记
